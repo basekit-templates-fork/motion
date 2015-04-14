@@ -132,10 +132,10 @@ body.edit .widget.navigation, body.edit .widget.extendednavigation {
    =============================== */
 
 .bk-header {
-    margin: 40px 0;
-    background-color: transparent;
+    padding: 40px 0;
+    background-color: @color-swatch5;
     border-bottom: 1px solid darken(@color-swatch2,10%);
-    padding-bottom: 33px;
+    margin-bottom: 40px;
     .wrapper {
       // Flex parent
     display: -webkit-box;
@@ -261,14 +261,6 @@ body.edit .widget.navigation, body.edit .widget.extendednavigation {
 }
 
 
-<<<<<<< HEAD
-.widget.logo {
-
-}
-=======
-
->>>>>>> fe826b1df01922450f98a106299ffb4735b822f8
-
 /* ===============================
    FOOTER
    =============================== */
@@ -341,7 +333,7 @@ body.edit .widget.navigation, body.edit .widget.extendednavigation {
 }
 
 .widget.extendednavigation a.pull {
-    top:-58px;
+    top: -40px;
 }
 
 .widget.extendednavigation ul {
@@ -424,11 +416,11 @@ body.edit .widget.navigation, body.edit .widget.extendednavigation {
     display: none;
 }
 
-.widget.extendednavigation li:hover > ul {
+.widget.extendednavigation ul li:hover > ul {
     display: block;
     position: absolute;
-    background-color: @color-swatch1;
-    border: 1px solid darken(@color-swatch2,10%);
+    background-color: lighten(@color-swatch4, 5%);
+    border: 1px solid @color-swatch4;
     z-index: 500;
     padding: 10px 0;
     margin: 0;
@@ -1375,7 +1367,7 @@ footer .widget.profile .twitter span {
 
 @media only screen and (max-width: 768px) {
     .bk-header {
-        margin: 30px 0 30px;
+        margin: 0 0 30px;
         padding-bottom: 0;
     }
 
