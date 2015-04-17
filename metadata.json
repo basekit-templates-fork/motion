@@ -3,8 +3,7 @@
 	"thumbnail":"motion.png",
 	"screenshot":"motion.png",
     "templateType":"standard",
-    "pageTypes": ["home"], 
-    
+    "pageTypes": ["home"],
     "tags": {
     "en": ["photography", "modern", "communication",  "open", "simple", "creative", "sans-serif", "studio", "agency", "production", "film", "performers", "media", "design"],
     "es": ["fotografico", "moderno", "comunicacion", "abierto", "simple", "creativo", "sans-serif", "estudio", "agencia", "productora", "peliculas", "actores", "comunicacion", "diseño"],
@@ -142,7 +141,7 @@
             "font-size": "30px",
             "font-weight": "400",
             "line-height": "40px",
-            "color": "@color-swatch1)",
+            "color": "@color-swatch1",
             "letter-spacing": "inherit"
         }
     }
