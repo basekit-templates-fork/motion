@@ -1,4 +1,2 @@
-Tukana
+Motion
 ======
-
-BaseKit's Tukana Template
