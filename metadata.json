@@ -105,7 +105,7 @@
             "font-weight": "400",
             "line-height": "24px",
             "color": "@color-swatch1",
-            "color-hover": "lighten(@color-swatch5,20%)",
+            "color-hover": "@color-swatch5",
             "letter-spacing": "inherit",
             "background-color": "@color-swatch1",
             "background-color-hover": "@color-swatch3"
@@ -118,7 +118,7 @@
             "color": "@color-swatch5",
             "letter-spacing": "inherit",
             "background-color": "@color-swatch3",
-            "background-color-hover": "darken(@color-swatch3,10%)"
+            "background-color-hover": "@color-swatch3"
         },
         "font8": {
             "font-family": "\"Lato\", Geneva, Tahoma, sans-serif",
