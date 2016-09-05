@@ -1,64 +1,110 @@
 {
-	"name":"Motion",
-	"thumbnail":"motion.png",
-	"screenshot":"motion.png",
-    "templateType":"standard",
-    "pageTypes": ["home"],
+    "name": "Motion",
+    "thumbnail": "motion.png",
+    "screenshot": "motion-screenshot.jpg",
+    "templateType": "standard",
+    "pageTypes": [
+        "home"
+    ],
     "tags": {
-    "en": ["photography", "modern", "communication",  "open", "simple", "creative", "sans-serif", "studio", "agency", "production", "film", "performers", "media", "design"],
-    "es": ["fotografico", "moderno", "comunicacion", "abierto", "simple", "creativo", "sans-serif", "estudio", "agencia", "productora", "peliculas", "actores", "comunicacion", "diseño"],
-    "br": ["fotografia", "moderno", "mídia", "aberto", "simples", "criativo", "sans-serif", "estúdio", "agência", "produção", "filme", "performers", "mídia", "design"]
+        "en": [
+            "photography",
+            "modern",
+            "communication",
+            "open",
+            "simple",
+            "creative",
+            "sans-serif",
+            "studio",
+            "agency",
+            "production",
+            "film",
+            "performers",
+            "media",
+            "design"
+        ],
+        "es": [
+            "fotografico",
+            "moderno",
+            "comunicacion",
+            "abierto",
+            "simple",
+            "creativo",
+            "sans-serif",
+            "estudio",
+            "agencia",
+            "productora",
+            "peliculas",
+            "actores",
+            "comunicacion",
+            "dise\u00f1o"
+        ],
+        "br": [
+            "fotografia",
+            "moderno",
+            "m\u00eddia",
+            "aberto",
+            "simples",
+            "criativo",
+            "sans-serif",
+            "est\u00fadio",
+            "ag\u00eancia",
+            "produ\u00e7\u00e3o",
+            "filme",
+            "performers",
+            "m\u00eddia",
+            "design"
+        ]
     },
-	"colorSwatches":
-    {
+    "colorSwatches": {
         "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#f1f1f1",
-            "color3":"#f1f1f1",
-            "color4":"#898989",
-            "color5":"#231f20",
-            "color6":"#898989",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f1f1f1",
+            "color3": "#f1f1f1",
+            "color4": "#898989",
+            "color5": "#231f20",
+            "color6": "#898989",
+            "color7": "#ffffff"
         },
         "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#f8f2ea",
-            "color3":"#f8f2ea",
-            "color4":"#c4924e",
-            "color5":"#696969",
-            "color6":"#c4924e",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f8f2ea",
+            "color3": "#f8f2ea",
+            "color4": "#c4924e",
+            "color5": "#696969",
+            "color6": "#c4924e",
+            "color7": "#ffffff"
         },
         "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#eef5f3",
-            "color3":"#eef5f3",
-            "color4":"#69A4D7",
-            "color5":"#182a24",
-            "color6":"#69A4D7",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#eef5f3",
+            "color3": "#eef5f3",
+            "color4": "#69A4D7",
+            "color5": "#182a24",
+            "color6": "#69A4D7",
+            "color7": "#ffffff"
         },
         "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#f4eef2",
-            "color3":"#f4eef2",
-            "color4":"#DCA22F",
-            "color5":"#2F4F4F",
-            "color6":"#DCA22F",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f4eef2",
+            "color3": "#f4eef2",
+            "color4": "#DCA22F",
+            "color5": "#2F4F4F",
+            "color6": "#DCA22F",
+            "color7": "#ffffff"
         },
         "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#f8f2ea",
-            "color3":"#f8f2ea",
-            "color4":"#CBC2B2",
-            "color5":"#322411",
-            "color6":"#CBC2B2",
-            "color7":"#ffffff"
+            "color1": "#ffffff",
+            "color2": "#f8f2ea",
+            "color3": "#f8f2ea",
+            "color4": "#CBC2B2",
+            "color5": "#322411",
+            "color6": "#CBC2B2",
+            "color7": "#ffffff"
         }
     },
     "fontSwatch": {
-       "title": "Lato",
+        "title": "Lato",
         "font1": {
             "font-family": "\"Roboto\", Geneva, \"Lucida Console\", sans-serif",
             "font-size": "28px",
